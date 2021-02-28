@@ -1,2 +1,2 @@
 # momontum
-browser applicaiton with vanillajs
+to do list browser application with vanilla js
